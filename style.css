@@ -16,19 +16,8 @@ body {
   height: 20px;
 }
 
-.pac-dot {
-  background-color: #DDF9C1;   
-  border: 8px solid #181A25;;
-  box-sizing: border-box;
-}
-
 .wall {
   background-color: blue;
-}
-
-.power-pellet {
-  background-color: #DDF9C1;
-  border-radius: 10px;
 }
 
 .blinky {
@@ -102,4 +91,17 @@ h4 {
   text-align: center;
   margin-left: 240px;
   margin-top:10px;
+}
+
+.pac-dot {
+  background-color: #DDF9C1;   
+  border: 8px solid #181A25;;
+  box-sizing: border-box;
+  z-index: -1;
+}
+
+.power-pellet {
+  background-color: #DDF9C1;
+  border-radius: 10px;
+  z-index: -1;
 }
