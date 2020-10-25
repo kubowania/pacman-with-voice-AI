@@ -5,7 +5,7 @@ body {
 }
 
 .grid {
-  background-image: url('images/pacman-background.png');
+  z-index: -2;
   background-size: contain;
   display: flex;
   flex-wrap: wrap;
@@ -20,18 +20,22 @@ body {
 
 .blinky {
   background-image: url('images/blinky.png');
+  z-index: +2;
 }
 
 .pinky {
   background-image: url('images/pinky.png');
+  z-index: +2;
 }
 
 .inky {
   background-image: url('images/inky.png');
+  z-index: +2;
 }
 
 .clyde {
-  background-image: url('images/clyde.png');    
+  background-image: url('images/clyde.png');   
+  z-index: +2; 
 }
 
 .pac-man-left {
@@ -89,4 +93,21 @@ h4 {
   text-align: center;
   margin-left: 240px;
   margin-top:10px;
+}
+
+.wall {
+  background-color: blue;
+}
+
+.pac-dot {
+  font-size: 40px;
+  color: white;
+  margin: 0px;
+  text-align: center;
+  line-height: 0px;
+}
+
+.power-pellet {
+  background-image: radial-gradient(white 55%, transparent 5%);
+  z-index: -1;
 }
