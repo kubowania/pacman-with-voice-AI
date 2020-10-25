@@ -52,6 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
       //add layout to the board
       if(layout[i] === 0) {
         squares[i].classList.add('pac-dot')
+        squares[i].innerHTML = '.'
       } else if (layout[i] === 1) {
         squares[i].classList.add('wall')
       } else if (layout[i] === 2) {
@@ -142,6 +143,7 @@ document.addEventListener('DOMContentLoaded', () => {
       score++
       scoreDisplay.innerHTML = score
       squares[pacmanCurrentIndex].classList.remove('pac-dot')
+      squares[pacmanCurrentIndex].innerHTML = ''
     }
   }
 
