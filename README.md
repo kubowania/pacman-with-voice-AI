@@ -7,7 +7,7 @@ You can watch the tutorial on my YouTube channel [here](XXXX).
 
 This is the start code for my video tutorial, made for your guidance. In this video tutorial, you will learn how to implement Alan A.I voice commands into an exisitng game of pacman.
 
-This is a great tutorial for those of you wishing to learn about how to envole functions with voice commands using [Alan A.I](XXX). 
+This is a great tutorial for those of you wishing to learn about how to envoke functions with voice commands using [Alan A.I](XXX). 
 
 ### What you’ll learn
 * Implementing Voice Commands into JavaScript Projects
