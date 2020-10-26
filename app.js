@@ -1,4 +1,4 @@
-// WHen working with Alan A.I's SDK Keys, please hide your Key and do not publish onto GitHub or share on the internet. This project is for your own local use only and not to be published onto
+// When working with Alan A.I's SDK Keys, please hide your Key and do not publish onto GitHub or share on the internet. This project is for your own local use only and not to be published onto
 // your GitHub with your Key visible to others.
 // This is advise for your own benefit. You can hide your Key by converting this project to use packages such as .dotenv. 
 
