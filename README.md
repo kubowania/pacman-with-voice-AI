@@ -1,13 +1,13 @@
 # Pacman with Voice AI
 Pacman in JS for voice AI tutorial
 
-This repo is for those wishing to complete my tutorial on how to implement A.I voice commands into a JavaScript game of Pacman using [Alan AI](XXX).
+This repo is for those wishing to complete my tutorial on how to implement A.I voice commands into a JavaScript game of Pacman using [Alan AI](http://voice.alan.app/AniaKubowJavaScriptGames).
 
-You can watch the tutorial on my YouTube channel [here](XXXX).
+You can watch the tutorial on my YouTube channel [here](http://youtube.com/aniakubow).
 
 This is the start code for my video tutorial, made for your guidance. In this video tutorial, you will learn how to implement Alan A.I voice commands into an exisitng game of pacman.
 
-This is a great tutorial for those of you wishing to learn about how to envoke functions with voice commands using [Alan A.I](XXX). 
+This is a great tutorial for those of you wishing to learn about how to envoke functions with voice commands using [Alan A.I](http://voice.alan.app/AniaKubowJavaScriptGames). 
 
 ### What you’ll learn
 * Implementing Voice Commands into JavaScript Projects
